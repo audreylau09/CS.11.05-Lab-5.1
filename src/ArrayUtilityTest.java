@@ -8,7 +8,6 @@ class ArrayUtilityTest {
     private int[] arrayOne;
     private int[] arrayTwo;
     private int[] arrayThree;
-
     private String[] arrayFour;
 
     @BeforeEach
